@@ -1,19 +1,19 @@
 package decorator.mycode.decorators;
 
-import decorator.mycode.Car;
+import decorator.mycode.types.Car;
 
-public class Conditioner extends CarDecorator {
+public class Stereo extends CarDecorator {
 
 
-    protected Conditioner(Car car) {
+    public Stereo(Car car) {
         super(car);
     }
 
     public String getDescription() {
-        return car.getDescription() + "Conder";
+        return car.getDescription() + " + " + "Stereo";
     }
 
     public int cost() {
-        return car.cost() + 200;
+        return car.cost() + 100;
     }
 }

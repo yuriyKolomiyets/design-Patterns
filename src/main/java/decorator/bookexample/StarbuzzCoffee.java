@@ -1,12 +1,12 @@
-package main.java.decorator;
+package decorator.bookexample;
 
-import patterns.decorator.beverages.Beverage;
-import patterns.decorator.beverages.DarkRoast;
-import patterns.decorator.beverages.Espresso;
-import patterns.decorator.beverages.HouseBlend;
-import patterns.decorator.decorators.Mocha;
-import patterns.decorator.decorators.Soy;
-import patterns.decorator.decorators.Whip;
+import decorator.bookexample.beverages.Beverage;
+import decorator.bookexample.beverages.DarkRoast;
+import decorator.bookexample.beverages.Espresso;
+import decorator.bookexample.beverages.HouseBlend;
+import decorator.bookexample.decorators.Mocha;
+import decorator.bookexample.decorators.Soy;
+import decorator.bookexample.decorators.Whip;
 
 public class StarbuzzCoffee {
 

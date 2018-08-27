@@ -1,4 +1,12 @@
 package decorator.mycode.types;
 
-public class audi {
+public class Audi extends Car {
+
+    public Audi() {
+        this.description = "Audi";
+    }
+
+    public int cost() {
+        return 20000;
+    }
 }

@@ -1,6 +1,6 @@
-package main.java.decorator.decorators;
+package decorator.bookexample.decorators;
 
-import patterns.decorator.beverages.Beverage;
+import decorator.bookexample.beverages.Beverage;
 
 public abstract class CondimentDecorator extends Beverage {
     public abstract String getDescription();

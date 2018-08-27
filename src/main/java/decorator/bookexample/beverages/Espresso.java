@@ -1,4 +1,4 @@
-package main.java.decorator.beverages;
+package decorator.bookexample.beverages;
 
 public class Espresso extends Beverage {
 

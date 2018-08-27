@@ -1,5 +1,4 @@
-package main.java.decorator.beverages;
-
+package decorator.bookexample.beverages;
 
 public class DarkRoast extends Beverage {
 

@@ -1,14 +1,12 @@
 package decorator.mycode.types;
 
-import decorator.mycode.car;
+public class Mers extends Car {
 
-public class Audi extends car {
-
-    public Audi() {
-        this.description = "Audi";
+    public Mers() {
+        this.description = "Mers";
     }
 
-    public double cost() {
-        return 20000;
+    public int cost() {
+        return 40000;
     }
 }

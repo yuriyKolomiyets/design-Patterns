@@ -1,4 +1,4 @@
-package decorator.mycode;
+package decorator.mycode.types;
 
 public abstract class Car {
 
@@ -7,6 +7,6 @@ public abstract class Car {
     public String getDescription() {
         return description;
     }
-    public abstract double cost();
+    public abstract int cost();
 
 }
