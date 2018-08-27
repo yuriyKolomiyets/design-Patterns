@@ -2,26 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ea9a2bd-b1e3-493f-861b-8f8e118f60f0" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/decorator/bookexample/StarbuzzCoffee.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/decorator/bookexample/beverages/Beverage.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/decorator/bookexample/beverages/DarkRoast.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/decorator/bookexample/beverages/Espresso.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/decorator/bookexample/beverages/HouseBlend.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/decorator/bookexample/decorators/CondimentDecorator.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/decorator/bookexample/decorators/Mocha.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/decorator/bookexample/decorators/Soy.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/decorator/bookexample/decorators/Whip.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/decorator/mycode/Autosalon.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/decorator/mycode/decorators/CarDecorator.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/decorator/mycode/decorators/Conditioner.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/decorator/mycode/decorators/SitHeater.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/decorator/mycode/decorators/Stereo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/decorator/mycode/types/Audi.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/decorator/mycode/types/Car.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/decorator/mycode/types/Eurobliahi.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/decorator/mycode/types/Mers.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/.gitignore" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -118,19 +100,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CarDecorator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/decorator/mycode/decorators/CarDecorator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-              <folding>
-                <element signature="e#190#191#0" expanded="true" />
-                <element signature="e#220#221#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Conditioner.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/decorator/mycode/decorators/Conditioner.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -148,7 +117,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Stereo.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Stereo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/decorator/mycode/decorators/Stereo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
@@ -161,6 +130,16 @@
                 <element signature="e#297#298#0" expanded="true" />
                 <element signature="e#336#337#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -255,99 +234,6 @@
               <item name="designpatterns2" type="b2602c69:ProjectViewProjectNode" />
               <item name="designpatterns2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designpatterns2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designpatterns2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designpatterns2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designpatterns2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designpatterns2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designpatterns2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="decorator" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designpatterns2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designpatterns2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="decorator" type="462c0819:PsiDirectoryNode" />
-              <item name="bookexample" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designpatterns2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designpatterns2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="decorator" type="462c0819:PsiDirectoryNode" />
-              <item name="bookexample" type="462c0819:PsiDirectoryNode" />
-              <item name="beverages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designpatterns2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designpatterns2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="decorator" type="462c0819:PsiDirectoryNode" />
-              <item name="bookexample" type="462c0819:PsiDirectoryNode" />
-              <item name="decorators" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designpatterns2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designpatterns2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="decorator" type="462c0819:PsiDirectoryNode" />
-              <item name="mycode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designpatterns2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designpatterns2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="decorator" type="462c0819:PsiDirectoryNode" />
-              <item name="mycode" type="462c0819:PsiDirectoryNode" />
-              <item name="decorators" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designpatterns2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designpatterns2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="decorator" type="462c0819:PsiDirectoryNode" />
-              <item name="mycode" type="462c0819:PsiDirectoryNode" />
-              <item name="types" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designpatterns2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designpatterns2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="proxy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designpatterns2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="designpatterns2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -508,7 +394,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="812" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -530,9 +415,9 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3299712" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299712" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299712" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3299712" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -825,6 +710,14 @@
             <element signature="e#297#298#0" expanded="true" />
             <element signature="e#336#337#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
