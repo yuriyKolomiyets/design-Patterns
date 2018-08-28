@@ -1,6 +1,5 @@
 package decorator.mycode.decorators;
 
-import decorator.mycode.types.Audi;
 import decorator.mycode.types.Car;
 import decorator.mycode.types.Eurobliahi;
 import org.junit.After;
@@ -14,7 +13,6 @@ public class SitHeaterTest {
 
     @Before
     public void before() {
-
         car = new Eurobliahi();
     }
 

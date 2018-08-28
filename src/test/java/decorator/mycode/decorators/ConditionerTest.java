@@ -13,9 +13,7 @@ public class ConditionerTest {
 
     @Before
     public void before() {
-
         car = new Audi();
-
     }
 
     @After
