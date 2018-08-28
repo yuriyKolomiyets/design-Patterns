@@ -4,6 +4,7 @@ import decorator.mycode.types.Car;
 
 public class Conditioner extends CarDecorator {
 
+    private final int CONDITIONERCOST = 200;
 
     public Conditioner(Car car) {
         super(car);
@@ -14,6 +15,6 @@ public class Conditioner extends CarDecorator {
     }
 
     public int cost() {
-        return car.cost() + 200;
+        return car.cost() + CONDITIONERCOST;
     }
 }

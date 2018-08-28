@@ -4,6 +4,7 @@ import decorator.mycode.types.Car;
 
 public class SitHeater extends CarDecorator {
 
+    private final int SITHEATERCOST = 780;
 
     public SitHeater(Car car) {
         super(car);
@@ -14,6 +15,6 @@ public class SitHeater extends CarDecorator {
     }
 
     public int cost() {
-        return car.cost() + 780;
+        return car.cost() + SITHEATERCOST;
     }
 }

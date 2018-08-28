@@ -4,6 +4,7 @@ import decorator.mycode.types.Car;
 
 public class Stereo extends CarDecorator {
 
+    private final int STEREOCOST = 100;
 
     public Stereo(Car car) {
         super(car);
@@ -14,6 +15,6 @@ public class Stereo extends CarDecorator {
     }
 
     public int cost() {
-        return car.cost() + 100;
+        return car.cost() + STEREOCOST;
     }
 }
